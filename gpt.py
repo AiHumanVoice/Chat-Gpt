@@ -1,5 +1,3 @@
-!pip install openai
-
 import openai
 
 # OpenAI API 키 설정
